@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<!--
 **About me**
+-->
 
 I am a junior python programmer, I use [python](https://python.org/) to create a lot of great apps and programs (backend, pen testing). Also, I am interest in iOS and Android development
 
