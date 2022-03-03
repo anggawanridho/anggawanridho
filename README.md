@@ -7,7 +7,7 @@ I am a junior python programmer, I use [python](https://python.org/) to create a
 
 - 🔭 I’m currently study at Indonesian Computer University
 - 🌱 I’m currently learning [Django](https://djangoproject.com/) and [Vue.js](https://vuejs.org/)
-- ❤️ I love writing building programs and experiments on it
+- ❤️ I love writing programs and experiments with it
 - 💬 Ask me about anything [here](https://github.com/anggawanridho/anggawanridho/issues)
 
 <!--
