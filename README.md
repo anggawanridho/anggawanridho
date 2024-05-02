@@ -3,10 +3,10 @@
 **About me**
 -->
 
-I am a junior python programmer, I use [NodeJS](https://nodejs.org/) to create a lot of great apps and programs (backend). Also, I am interest in iOS and Android development
+I am a junior python programmer, I use [NodeJS](https://nodejs.org/) and [Python](https://python.org/) to create a lot of great apps and programs (backend). Also, I am interest in iOS and Android development
 
 - 🔭 I’m currently study at Indonesian Computer University
-- 🌱 I’m currently learning [Express.js](https://expressjs.com/)
+- 🌱 I’m currently learning [Express.js](https://expressjs.com/) and [Django](https://djangoproject.com/)
 - ❤️ I love writing programs and experiments with it
 - 💬 Ask me about anything [here](https://github.com/anggawanridho/anggawanridho/issues)
 
